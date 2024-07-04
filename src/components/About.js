@@ -11,7 +11,7 @@ export default function About() {
         <div className="container" style={myStyle}>
             <h1>About us</h1>
         <div classname="accordion" id="accordionExample">
-    <div classname="accordion-item">
+        <div classname="accordion-item">
         <h2 classname="accordion-header">
         <button classname="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
             Accordion Item #1
